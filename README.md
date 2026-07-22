@@ -62,6 +62,8 @@ SnapML is an end-to-end AutoML platform that automates model training, hyperpara
 - LightGBM
 - CatBoost
 - Optuna
+- Pytorch
+- SHAP
 
 ### Frameworks
 - FastAPI
@@ -72,6 +74,9 @@ SnapML is an end-to-end AutoML platform that automates model training, hyperpara
 - NumPy
 - Pandas
 - Matplotlib
+### Bioinformatics
+- Biopython
+- DNA Sequence Processing
 
 ### Tools
 - Git
