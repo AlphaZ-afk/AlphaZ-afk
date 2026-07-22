@@ -14,16 +14,16 @@ I enjoy building practical AI systems at the intersection of machine learning, c
 
 Genome Firewall is an AI-powered biosecurity platform designed to analyze genomic sequences and identify potentially harmful genetic patterns. It combines machine learning, biological sequence analysis, and explainable AI to help researchers detect synthetic pathogen signatures and improve genomic safety.
 
-**Highlights**
-- AI-powered DNA sequence analysis
-- Biosecurity risk assessment
-- Explainable AI insights
-- Interactive web interface
-- Built during HSIL Hackathon 2026
+### Highlights
 
+- 🧬 Predicts antimicrobial resistance using bacterial genomic data
+- 🤖 Machine learning pipeline for genomic sequence analysis
+- 📊 Explainable AI to interpret model predictions
+- 🌐 Interactive web platform for Clinicians and Professionals
+- ⚡ Built with a scalable React + FastAPI architecture
+  
 **Tech Stack**
-
-Python • TensorFlow • Scikit-learn • BioPython • FastAPI • React • TypeScript
+Python • LLMs • Scikit-learn • BioPython • FastAPI • React • TypeScript
 
 ---
 
