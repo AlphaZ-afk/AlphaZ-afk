@@ -1,12 +1,4 @@
-# Hi, I'm Madhukar Madhawan 👋
-
-## B.Tech Student • AI Builder • Founder • Computational Biology Enthusiast
-
-I'm a B.Tech student in Mathematics & Computing at the Indian Institute of Information Technology (IIIT) Ranchi.
-
-I enjoy building practical AI systems at the intersection of machine learning, computational biology, healthcare, and developer tools. My goal is to develop technology that solves meaningful real-world problems while continuously learning through research, hackathons, and open-source projects.
-
----
+I'm a B.Tech student in Mathematics & Computing at the Indian Institute of Information Technology (IIIT) Ranchi. I enjoy building intelligent software systems, exploring emerging technologies, and solving challenging engineering problems. My interests span artificial intelligence, software engineering, robotics, distributed systems, and scientific computing. I love learning across disciplines and turning ambitious ideas into practical products through research, hackathons, and open-source development.
 
 # 🚀 Featured Projects
 
