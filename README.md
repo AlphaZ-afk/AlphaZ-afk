@@ -1,4 +1,10 @@
-I'm a B.Tech student in Mathematics & Computing at the Indian Institute of Information Technology (IIIT) Ranchi. I enjoy building intelligent software systems, exploring emerging technologies, and solving challenging engineering problems. My interests span artificial intelligence, software engineering, robotics, distributed systems, and scientific computing. I love learning across disciplines and turning ambitious ideas into practical products through research, hackathons, and open-source development.
+## 👋 About Me
+
+I'm a B.Tech student in **Mathematics & Computing** at the **Indian Institute of Information Technology (IIIT) Ranchi**.
+
+I'm passionate about building intelligent software systems, exploring emerging technologies, and solving challenging engineering problems. My interests span **Artificial Intelligence, Software Engineering, Robotics, Distributed Systems, and Scientific Computing**.
+
+I enjoy learning across disciplines and turning ambitious ideas into practical products through **research, hackathons, and open-source development**.
 
 # 🚀 Featured Projects
 
